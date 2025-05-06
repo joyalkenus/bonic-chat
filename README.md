@@ -1,4 +1,4 @@
-# Learning Platform API Documentation
+# Bonic Platform Agent API Documentation
 
 This API provides two main endpoints for managing and interacting with educational content:
 
